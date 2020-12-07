@@ -4,9 +4,9 @@ info:
   description: "Salesforce API"
   title: Salesforce API
 servers:
-  - url: http://login.salesforce.com
+  - url: https://login.salesforce.com
     description: product Server
-  - url: http://test.salesforce.com
+  - url: https://test.salesforce.com
     description: Sandbox Server
 tags:
   - name: auth
